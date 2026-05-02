@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: designs user experiences, validates usability, and provides design assets.
+- Release Manager: plans and coordinates deployments, manages go/no-go, owns rollback readiness.
+- Support Lead: monitors customer issues, escalates bugs, and prepares support teams for releases.
+- Data Analyst: defines and tracks KPIs, builds dashboards, and provides data-driven insights.
+- Subject Matter Expert (SME): provides domain expertise, reviews deliverables, and advises on compliance or standards.
+
+Full persona details are available in the [Roles & Personas](./octoacme-roles-and-personas.md) guide and the [RACI & Handoff Checklist](./octoacme-raci-and-handoff-checklist.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
